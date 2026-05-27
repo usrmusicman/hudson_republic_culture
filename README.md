@@ -20,16 +20,6 @@ It establishes a compact, defensible sovereign republic covering the connected c
 
 This is not protest theatre or romantic nationalism. It is a professionally engineered, modular, machine-parseable nation-state built on sound money, individual sovereignty, transparent governance, and true local stewardship.
 
-## Core Principles That Matter
-
-- **Individual Sovereignty First** — Rights are supreme and foundational, protected under **[The Individual (Sovereign) Act](./laws/docs/CA/CA_THEINDIVIDUAL_20260401.md)** with Strict Scrutiny as the standard for any limitation.
-- **Minimal Federal Power** — The federal government handles only monetary integrity, national defence, border security/ports, and constitutional courts. Everything else belongs to the Ridings.
-- **Riding Stewardship** — Each Riding is fully autonomous.
-- **No Political Parties** — Representatives run as independents under their own name only.
-- **Sound Money** — 100% physical bullion via the Beaver Ledger and Silver Hour standard. Practical 95% purity beaver coins with XRF verification.
-- **Voluntary & Modular** — No region is forced to join. Reluctant areas can remain independent, become Satellite States, or join later.
-- **Clean Break from the Crown** — No colonial continuity. Nation-to-nation trade and respect with First Nations.
-
 ## Key Highlights
 
 - **Beaver as National Symbol** — The original, hard-working symbol of this land (Indigenous roots, far more widespread than the maple leaf).
