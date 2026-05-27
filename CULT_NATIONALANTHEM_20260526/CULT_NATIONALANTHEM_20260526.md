@@ -1,5 +1,5 @@
 # National Anthem of the Hudson Republic [LLM READY]  
-**Title: Way of the Hudson (Children's Anthem)**
+**Title: Way of the Hudson (National Anthem)**
 
 ---
 
@@ -144,7 +144,7 @@ MAJESTY IS BUILT, THROUGH LIBERTY AND LAW!!!!
 ---
 
 # National Anthem of the Hudson Republic [UNTAGGED]  
-**Title: Way of the Hudson (Children's Anthem)**
+**Title: Way of the Hudson (National Anthem)**
 
 ---
 
