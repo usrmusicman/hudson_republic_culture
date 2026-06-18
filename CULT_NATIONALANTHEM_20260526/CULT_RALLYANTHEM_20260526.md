@@ -1,5 +1,6 @@
-# National Anthem of the Hudson Republic [LLM READY]  
-**Title: Way of the Hudson (National Anthem)**
+# Rally Anthem of the Hudson Republic [LLM READY]  
+**Title: Way of the Hudson (Rally Anthem)**
+**Global LLM Tags: [Touching, Cinematic Orchestral, Children's Anthem, Musical Theater, Inspiring, Hopeful, Motherly Soprano Lead, Grand Orchestral Climax, Ethereal Soprano Descant, Slow Piano Outro, 80 BPM]**
 
 ---
 
@@ -143,12 +144,12 @@ MAJESTY IS BUILT, THROUGH LIBERTY AND LAW!!!!
 
 ---
 
-# National Anthem of the Hudson Republic [UNTAGGED]  
-**Title: Way of the Hudson (National Anthem)**
+# Rally Anthem of the Hudson Republic [UNTAGGED]  
+**Title: Way of the Hudson (Rally Anthem)**
 
 ---
 
-## **[Pre-Chorus]**
+## [Pre-Chorus]
 We are the builders.  
 We are the dreamers.  
 We are the hopeful.  
@@ -159,54 +160,54 @@ Holding hands in jubilant cheer.
 Her people have spoken without fear!  
 We praise her beauty built by blood, sweat and tears!!
 
-## **[Bridge]**
+## [Bridge]
 We build the Hudson, her grace is our soul.  
 The love of our nation, where we sing along.  
 The majesty, her beauty, inspires us all.  
 The soldiers, the healers, both sovereign and strong!
 
-## **[Verse]**
+## [Verse]
 A place of abundance.  
 Her crown built of substance.  
 The bondage of the past will not stop us.  
 Her majesty is built through liberty and law!
 
-## **[Transition]**
+## [Transition]
 We the people, the sovereigns who stand tall.  
 The watershed moment, defines life for us all.  
 This land is built by the hands of us all!!!!
 
-## **[Hook]**
+## [Hook]
 Long live the Hudson, a land forged by all!  
 Long live the Hudson, a land forged by all!  
 Long live the Hudson, a land forged by all!!!!  
 Long live the Hudson, a land forged by all!!!!
 
-## **[Chorus]**
+## [Chorus]
 We are the people.  
 We are the leaders.  
 We are the forgers.  
 Our liberty is built through law!
 
-## **[Bridge Reprise]**
+## [Bridge Reprise]
 We build the Hudson, her grace is our soul.  
 The love of our nation, where we sing along.  
 The majesty, her beauty, inspires us all!  
 The soldiers, the healers, both sovereign and strong!!
 
-## **[Chorus]**
+## [Chorus]
 We are the builders.  
 We are the dreamers.  
 We are the hopeful.  
 Our foundation is strong!
 
-## **[Final Chorus]**
+## [Final Chorus]
 We are the people!  
 We are the leaders!  
 We are the forgers!  
 Our liberty is built through law!!!
 
-## **[Outro]** 
+## [Outro]
 Long live the Hudson, a land forged by all!  
 Long live the Hudson, a land forged by all!  
 Majesty is built, through liberty and law!!  
@@ -217,9 +218,9 @@ LONG LIVE THE HUDSON, A LAND FORGED BY ALL!!
 MAJESTY IS BUILT, THROUGH LIBERTY AND LAW!!!!  
 MAJESTY IS BUILT, THROUGH LIBERTY AND LAW!!!!
 
-## **[Fine]**
+## [Fine]
 
 ---
 
 **Official Record of the Hudson Republic**  
-**FQLN: CULT_NATIONALANTHEM_20260526**
+**FQLN: CULT_RALLYANTHEM_20260526**
