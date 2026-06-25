@@ -1,5 +1,5 @@
 # Rally Anthem of the Hudson Republic [LLM READY]  
-**Title: Way of the Hudson (Rally Anthem)**
+**Title: Way of the Hudson**
 **Global LLM Tags: [Touching, Cinematic Orchestral, Children's Anthem, Musical Theater, Inspiring, Hopeful, Motherly Soprano Lead, Grand Orchestral Climax, Ethereal Soprano Descant, Slow Piano Outro, 80 BPM]**
 
 ---
@@ -145,7 +145,7 @@ MAJESTY IS BUILT, THROUGH LIBERTY AND LAW!!!!
 ---
 
 # Rally Anthem of the Hudson Republic [UNTAGGED]  
-**Title: Way of the Hudson (Rally Anthem)**
+**Title: Way of the Hudson**
 
 ---
 
