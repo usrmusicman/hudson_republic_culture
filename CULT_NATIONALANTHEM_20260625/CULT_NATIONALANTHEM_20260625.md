@@ -1,5 +1,5 @@
 # National Anthem of the Hudson Republic [LLM READY]
-**Title: Sovereign Beaver's March**
+**Title: Sovereign Beaver's March**  
 **Global LLM Tags: [revolution, military, 19th century, cinematic, foot stomps, snare drum rolls, flutes, 2/4 march time, 84 bpm]**
 
 ---
