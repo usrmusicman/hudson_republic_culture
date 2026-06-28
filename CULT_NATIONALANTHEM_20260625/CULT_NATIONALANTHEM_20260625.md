@@ -95,8 +95,6 @@ This watershed moment, is freedom for all!
 
 ---
 
-# Hudson National Anthem (Sovereign March)
-
 ## [Instrumental Intro]
 
 ## [Verse 1]
