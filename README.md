@@ -31,16 +31,16 @@ This is not protest theatre or romantic nationalism. It is a professionally engi
 ## Repository Structure
 
 .  
-├── CULT_CUISINE_20260504/						# National Cuisine  
-├── CULT_HUDSONERSALUTE_20260401/				# Original Hudson Poem (2023)  
-├── CULT_MISCITEMS_20260401/					# Miscalaneous items related to the culture of the Hudson Republic  
-├── CULT_NATIONALANTHEM_20260526				# The National Anthem of the Hudson Republic  
-├── FAQ.md                    					# Plain-language answers (start here)  
-└── README.md                 					# This file
+├── CULT_CUISINE_20260504/                      # National Cuisine  
+├── CULT_HUDSONERSALUTE_20260401/               # Original Hudson Poem (2023)  
+├── CULT_MISCITEMS_20260401/                    # Miscalaneous items related to the culture of the Hudson Republic  
+├── CULT_NATIONALANTHEM_20260625/               # The National Anthem of the Hudson Republic  
+├── FAQ.md                                      # Plain-language answers (start here)  
+└── README.md                                   # This file
 
 **Quick Start Links**
 - [Full FAQ](./FAQ.md) — Plain-English overview of rights, money, governance, and more
-- [National Anthem Lyrics](./CULT_NATIONALANTHEM_20260526/CULT_NATIONALANTHEM_20260526.md) - National Anthem Lyrics
+- [National Anthem Lyrics](./CULT_NATIONALANTHEM_20260625/CULT_NATIONALANTHEM_20260625.md) - National Anthem Lyrics
 - [Hudson Republic Banner](./HUDSON_REPUBLIC_BANNER.png) - Hudson Republic National Flag
 - [Hudson Republic Patch](./HUDSON_REPUBLIC_BANNER_ALT.png) - Hudson Republic Official Uniform Patch
 
