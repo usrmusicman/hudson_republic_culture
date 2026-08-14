@@ -13,9 +13,9 @@ The signature dish of the Hudson Republic is the **Beaver Tail**, a fried dough 
 - Cinnamon sugar
 - Other seasonal fruits and local preserves
 
-## Beaver Tail (Savory)
+## Dinner Pelt (Savory)
 
-A heartier variation features a thick, hollow wheat shell shaped like a beaver’s tail and filled with substantial ingredients. These savory Beaver Tails serve as a complete meal.
+A heartier variation features a thick and long, hollow wheat shell shaped like a beaver’s tail and filled with substantial ingredients. These savory pelts serve as a complete meal.
 
 **Popular Savory Fillings** include:
 - Ground beef or pork
@@ -27,7 +27,7 @@ A heartier variation features a thick, hollow wheat shell shaped like a beaver�
 
 ## Beaver Dam (Ice Cream)
 
-**Beaver Dam** is the official premium ice cream of the Hudson Republic. It features a rich chocolate-mint base (with optional cinnamon variants for a subtle spicy note), butterscotch swirls, and generous chunks of cookie dough.  
+**Beaver Dam** is the official premium ice cream of the Hudson Republic. It features a rich chocolate-mint base (with optional cinnamon variants for a subtle spicy note), butterscotch swirls or maple syrup, and generous chunks of cookie dough.  
 
 The flavor profile is intentionally evocative of the Canadian wilderness — fresh, robust, and satisfying — designed to awaken the senses as though one were standing beside a flowing river or deep in the northern forests.
 
