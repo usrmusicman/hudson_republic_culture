@@ -1,0 +1,236 @@
+# Politically Correct
+
+---
+
+**Title: Way Of The Hudson (Rally Anthem)**  
+**Song URL: https://beaverfever2.bandcamp.com/track/act-4-p2-way-of-the-hudson-rally-anthem**  
+**Artist: Beaver Fever**  
+**Label: Pelt Productions**  
+**Album: Politically Correct**  
+**Release Date: October 19, 2026**  
+**Global LLM Tags: [Touching, Cinematic Orchestral, Children's Anthem, Musical Theater, Inspiring, Hopeful, Motherly Soprano Lead, Grand Orchestral Climax, Ethereal Soprano Descant, Slow Piano Outro, 80 BPM]**  
+
+---
+
+## [Pre-Chorus]
+
+### [Quiet Piano and Voice 1]
+We are the builders.  
+### [Voice 2]
+We are the dreamers.  
+### [Voice 3]
+We are the hopeful.  
+### [Voices 1 and 2]
+Our foundation is strong!  
+
+### [Quiet Percussion]
+
+### [Voice 3]
+Pioneers of her vast frontier.  
+### [Voice 2]
+Holding hands in jubilant cheer.  
+### [Dynamics Build and Voice 1]
+Her people have spoken without fear!  
+### [Cinematic Orchestra]
+We praise her beauty built by blood, sweat and tears!!  
+
+## [Pause]
+
+## [Bridge]
+
+### [Full Choir]
+We build the Hudson, her grace is our soul.  
+The love of our nation, where we sing along.  
+The majesty, her beauty, inspires us all.  
+The soldiers, the healers, both sovereign and strong!  
+### [Decrescendo]
+
+## [Verse]
+
+### [Strings and Voice 1]
+A place of abundance.  
+### [Voice 2]
+Her crown built of substance.  
+### [Voice 3]
+The bondage of the past will not stop us.  
+### [Choir]
+Her majesty is built through liberty and law!  
+
+## [Pause]
+
+### [Decrescendo]
+
+## [Transition]
+
+### [Key Change and Dynamic Build]
+
+### [Full Choir]
+We the people, the sovereigns who stand tall.  
+The watershed moment, defines life for us all.  
+### [Sung Loudly and with Conviction]
+This land is built by the hands of us all!!!!  
+### [Decrescendo]
+
+## [Hook]
+
+### [Choir only]
+Long live the Hudson, a land forged by all!  
+Long live the Hudson, a land forged by all!  
+Long live the Hudson, a land forged by all!!!!  
+Long live the Hudson, a land forged by all!!!!  
+### [Pause]
+
+### [Cinematic Orchestra]
+
+### [Decrescendo]
+
+## [Chorus]
+
+### [Quiet Piano and Voice 1]
+We are the people.  
+### [Voice 2]
+We are the leaders.  
+### [Voice 3]
+We are the forgers.  
+### [Forte, Voices 1 and 2]
+Our liberty is built through law!  
+
+## [Bridge Reprise]
+
+### [Full Choir and Key Change]
+We build the Hudson, her grace is our soul.  
+The love of our nation, where we sing along.  
+The majesty, her beauty, inspires us all!  
+### [Epic Sound]
+The soldiers, the healers, both sovereign and strong!!  
+
+## [Chorus]
+
+### [Choir and Strings only]
+We are the builders.  
+We are the dreamers.  
+We are the hopeful.  
+Our foundation is strong!  
+
+### [Final Chorus and Cinematic Orchestra]
+
+### [Sung Loudly with Conviction]
+We are the people!  
+We are the leaders!  
+We are the forgers!  
+Our liberty is built through law!!!  
+
+## [Pause]
+
+## [Outro]
+
+### [Building]
+
+### [Full Organ and Original Key]
+
+### [Soprano Descant: Soloist, soaring high and independent, floating, very slow and beautiful]
+Long live the Hudson, a land forged by all!  
+Long live the Hudson, a land forged by all!  
+Majesty is built, through liberty and law!!  
+Majesty is built, through liberty and law!!  
+
+### [Drop]
+
+### [Military Drums and Brass]
+
+### [Choir Chant in Unison and with Conviction]
+LONG LIVE THE HUDSON, A LAND FORGED BY ALL!!  
+LONG LIVE THE HUDSON, A LAND FORGED BY ALL!!  
+MAJESTY IS BUILT, THROUGH LIBERTY AND LAW!!!!  
+MAJESTY IS BUILT, THROUGH LIBERTY AND LAW!!!!  
+
+### [Decrescendo]
+
+### [Quiet Piano only]
+
+## [Fine]
+
+---
+
+# Lyrics
+
+## Pre-Chorus
+We are the builders.  
+We are the dreamers.  
+We are the hopeful.  
+Our foundation is strong!  
+ 
+Pioneers of her vast frontier.  
+Holding hands in jubilant cheer.  
+Her people have spoken without fear!  
+We praise her beauty built by blood, sweat and tears!!  
+
+## Bridge 1
+We build the Hudson, her grace is our soul.  
+The love of our nation, where we sing along.  
+The majesty, her beauty, inspires us all.  
+The soldiers, the healers, both sovereign and strong!  
+
+## Verse
+A place of abundance.  
+Her crown built of substance.  
+The bondage of the past will not stop us.  
+Her majesty is built through liberty and law!  
+
+## Transition
+We the people, the sovereigns who stand tall.  
+The watershed moment, defines life for us all.  
+This land is built by the hands of us all!!!!  
+
+## Bridge 2
+Long live the Hudson, a land forged by all!  
+Long live the Hudson, a land forged by all!  
+Long live the Hudson, a land forged by all!!!!  
+Long live the Hudson, a land forged by all!!!!  
+
+## Chorus 1
+We are the people.  
+We are the leaders.  
+We are the forgers.  
+Our liberty is built through law!  
+
+## Bridge 3
+We build the Hudson, her grace is our soul.  
+The love of our nation, where we sing along.  
+The majesty, her beauty, inspires us all!  
+The soldiers, the healers, both sovereign and strong!!  
+
+## Chorus 2
+We are the builders.  
+We are the dreamers.  
+We are the hopeful.  
+Our foundation is strong!  
+
+## Chorus 3
+We are the people!  
+We are the leaders!  
+We are the forgers!  
+Our liberty is built through law!!!  
+
+## Outro
+Long live the Hudson, a land forged by all!  
+Long live the Hudson, a land forged by all!  
+Majesty is built, through liberty and law!!  
+Majesty is built, through liberty and law!!  
+
+LONG LIVE THE HUDSON, A LAND FORGED BY ALL!!  
+LONG LIVE THE HUDSON, A LAND FORGED BY ALL!!  
+MAJESTY IS BUILT, THROUGH LIBERTY AND LAW!!!!  
+MAJESTY IS BUILT, THROUGH LIBERTY AND LAW!!!!  
+
+---
+
+# Summary
+
+# Story
+This is the official rally cry for the new Hudson Republic.
+
+---
+
+**Official Record of the Hudson Republic**  
+**FQLN**: CULT_PCACT4P2_WAYOFTHEHUDSON_20261022
