@@ -32,10 +32,7 @@ This is not protest theatre or romantic nationalism. It is a professionally engi
 
 .  
 ├── CULT_CUISINE_20260504/                      # National Cuisine  
-├── CULT_HUDSONERSALUTE_20260401/               # Original Hudson Poem (2023)  
 ├── CULT_MISCITEMS_20260401/                    # Miscalaneous items related to the culture of the Hudson Republic  
-├── CULT_NATIONALANTHEM_20260625/               # The National Anthem of the Hudson Republic  
-├── FAQ.md                                      # Plain-language answers (start here)  
 └── README.md                                   # This file
 
 **Quick Start Links**
