@@ -137,7 +137,7 @@ This watershed moment, a Republic for all!!
 This is the official national anthem for the new Hudson Republic.
 
 ## Easter Eggs
-The "Red River" refers to the Red River resistance battle of 1866, where Métis communities fought to protect their land from crown capture.  
+The "Red River" refers to the Red River Resistance battle (1866) and subsequent Deed of Surrender (1870), where Métis communities fought to protect their land from crown capture.  
 Also, the "Red River" is a symbolic representation of patriotism, shown by the freedom convoy participants on February 2022 near the Ottawa river. They bled at the hands of the government in order to lift the COVID mandates.
 
 ---
