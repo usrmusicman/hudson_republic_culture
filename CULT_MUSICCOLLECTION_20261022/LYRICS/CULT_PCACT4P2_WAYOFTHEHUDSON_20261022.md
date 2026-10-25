@@ -227,7 +227,7 @@ MAJESTY IS BUILT, THROUGH LIBERTY AND LAW!!!!
 
 # Summary
 
-# Story
+## Story
 This is the official rally cry for the new Hudson Republic.
 
 ---

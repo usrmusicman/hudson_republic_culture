@@ -172,7 +172,7 @@ SLAP IT!
 
 # Summary
 
-# Story
+## Story
 Final curtain encore piece.
 
 ---
